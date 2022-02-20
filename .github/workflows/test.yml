@@ -1,0 +1,11 @@
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    container: archlinux/archlinux:latest
+    steps:
+      - name: Install dependencies
+        run: pacman -Syu --noconfirm jq
+      - uses: actions/checkout@v2
+      - name: Validate user_map.json
+        run: bash .github/workflows/test.sh
