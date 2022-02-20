@@ -1,18 +1,33 @@
 {
   "userMap": {
+    "ast-x64": ["Ast-x64"],
+    "avimitin": ["avimitin"],
+    "chencv": ["chen-cvresearch"],
+    "coelacanthus": ["CoelacanthusHex"],
+    "cubercsl": ["cubercsl"],
+    "eastdong": ["ieast"],
     "felix": ["felixonmars"],
     "jchzhou": ["jchzhou"],
+    "leo": ["LeoJhonSong"],
     "misaka00251": ["misaka00251"],
-    "ovezjin": ["ovezjin"]
+    "ovezjin": ["ovezjin"],
+    "piggy": ["piggynl"],
     "rainweic": ["Rainweic"],
+    "rapiz": ["rapiz1"],
+    "rvalue": ["r-value"],
+    "sequencer": ["sequencer"],
+    "sterprim": ["xctan"],
+    "tsuibin": ["tsuibin"],
+    "unv": ["sinofp"],
     "vimer": ["yuzibo"],
-    "ynq": ["ImBearChild"],
     "waleslau": ["waleslau"],
+    "xeonacid": ["Xeonacid"],
+    "xiejiss": ["xiejiss"],
+    "ynq": ["ImBearChild"],
     "yuekis": ["Yuru-ekis"],
     "yukari": ["YukariChiba"],
-    "leo": ["LeoJhonSong"],
-    "chencv": ["chen-cvresearch"],
     "yinxx":["yinxiangxv"],
-
+    "milkice": ["milkice233"],
+    "zenithal": ["ZenithalHourlyRate"]
   }
 }
