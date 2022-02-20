@@ -1,15 +1,39 @@
 {
   "userMap": {
+    "ast-x64": ["Ast-x64"],
+    "avimitin": ["avimitin"],
+    "chencv": ["chen-cvresearch"],
+    "coelacanthus": ["CoelacanthusHex"],
+    "cubercsl": ["cubercsl"],
+    "eastdong": ["ieast"],
     "felix": ["felixonmars"],
     "jchzhou": ["jchzhou"],
+    "juhan": ["BigBrotherJu"],
+    "laokz": ["laokz"],
+    "leo": ["LeoJhonSong"],
+    "mai": ["zxs-un"],
+    "milkice": ["milkice233"],
     "misaka00251": ["misaka00251"],
-    "ovezjin": ["ovezjin"]
+    "ovezjin": ["ovezjin"],
+    "piggy": ["piggynl"],
     "rainweic": ["Rainweic"],
+    "rapiz": ["rapiz1"],
+    "rvalue": ["r-value"],
+    "sequencer": ["sequencer"],
+    "sterprim": ["xctan"],
+    "tsuibin": ["tsuibin"],
+    "unv": ["sinofp"],
     "vimer": ["yuzibo"],
-    "ynq": ["ImBearChild"],
     "waleslau": ["waleslau"],
-    "yuekis": ["Yuru-ekis"],
-    "yukari": ["YukariChiba"],
-    "leo": ["LeoJhonSong"]
-  }
-}
+    "xeonacid": ["Xeonacid"],
+    "xiejiss": ["xiejiss"],
+    "yinxiangxv":["yinxx"],
+     "ynq": ["ImBearChild"],
+     "yuekis": ["Yuru-ekis"],
+     "yukari": ["YukariChiba"],
+     "zenithal": ["ZenithalHourlyRate"]
+     "zenithal": ["ZenithalHourlyRate"],
+     "zjy": ["ZhangJingYun2018"],
+     "task":["developerMonkey"]
+   }
+ }
