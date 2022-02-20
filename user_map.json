@@ -1,18 +1,18 @@
 {
   "userMap": {
+    "avimitin": ["Avimitin"],
+    "chencv": ["chen-cvresearch"],
     "felix": ["felixonmars"],
     "jchzhou": ["jchzhou"],
+    "leo": ["LeoJhonSong"],
     "misaka00251": ["misaka00251"],
-    "ovezjin": ["ovezjin"]
+    "ovezjin": ["ovezjin"],
     "rainweic": ["Rainweic"],
     "vimer": ["yuzibo"],
-    "ynq": ["ImBearChild"],
     "waleslau": ["waleslau"],
+    "ynq": ["ImBearChild"],
     "yuekis": ["Yuru-ekis"],
     "yukari": ["YukariChiba"],
-    "leo": ["LeoJhonSong"],
-    "chencv": ["chen-cvresearch"],
-    "avimitin": ["Avimitin"],
 
   }
 }
