@@ -37,5 +37,6 @@
     "zenithal": ["ZenithalHourlyRate"],
     "zhi": ["TooyamaX"],
     "zjy": ["ZhangJingYun2018"]
+    "jempty": ["imntjempty"]
   }
 }
