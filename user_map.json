@@ -2,6 +2,7 @@
   "userMap": {
     "ast-x64": ["Ast-x64"],
     "avimitin": ["avimitin"],
+    "branch": ["baozimixian"],
     "chencv": ["chen-cvresearch"],
     "coelacanthus": ["CoelacanthusHex"],
     "cubercsl": ["cubercsl"],
@@ -22,6 +23,7 @@
     "rapiz": ["rapiz1"],
     "rebeccas": ["rebeccasf"],
     "rvalue": ["r-value"],
+    "sama": ["turoksama"],
     "sequencer": ["sequencer"],
     "sterprim": ["xctan"],
     "tsuibin": ["tsuibin"],
@@ -38,8 +40,6 @@
     "zenithal": ["ZenithalHourlyRate"],
     "zhi": ["TooyamaX"],
     "zhoumz123":["zhoumz123"],
-    "zjy": ["ZhangJingYun2018"],
-    "branch": ["baozimixian"],
-    "sama" ["turoksama"]
+    "zjy": ["ZhangJingYun2018"]
   }
 }
