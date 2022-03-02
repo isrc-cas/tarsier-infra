@@ -8,6 +8,7 @@
     "cubercsl": ["cubercsl"],
     "eastdong": ["ieast"],
     "felix": ["felixonmars"],
+    "hang":["xh-hang"],
     "jchzhou": ["jchzhou"],
     "jempty": ["imntjempty"],
     "juhan": ["BigBrotherJu"],
@@ -42,7 +43,6 @@
     "zhaosq": ["ZhaoSQ-CH"],
     "zhi": ["TooyamaX"],
     "zhoumz123":["zhoumz123"],
-    "zjy": ["ZhangJingYun2018"],
-    "hang":["xh-hang"]
+    "zjy": ["ZhangJingYun2018"]
   }
 }
