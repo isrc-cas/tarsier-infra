@@ -1,12 +1,13 @@
 {
   "userMap": {
+    "ariel": ["ArielHeleneto"],
     "ast-x64": ["Ast-x64"],
     "avimitin": ["avimitin"],
     "branch": ["baozimixian"],
     "chencv": ["chen-cvresearch"],
     "coelacanthus": ["CoelacanthusHex"],
     "cubercsl": ["cubercsl"],
-    "DuoQilai": ["duoqilai"],
+    "duoqilai": ["duoqilai"],
     "eastdong": ["ieast"],
     "eustace": ["eusteuc"],
     "felix": ["felixonmars"],
@@ -27,9 +28,9 @@
     "piggy": ["piggynl"],
     "rainweic": ["Rainweic"],
     "rapiz": ["rapiz1"],
+    "raymen": ["raymenliu"],
     "rebeccas": ["rebeccasf"],
     "rvalue": ["r-value"],
-    "raymen": ["raymenliu"],
     "sequencer": ["sequencer"],
     "sjchen": ["sjchen"],
     "sterprim": ["xctan"],
@@ -50,7 +51,6 @@
     "zhaosq": ["ZhaoSQ-CH"],
     "zhi": ["TooyamaX"],
     "zhoumz123":["zhoumz123"],
-    "zjy": ["ZhangJingYun2018"],
-    "ariel": ["ArielHeleneto"]
+    "zjy": ["ZhangJingYun2018"]
   }
 }
